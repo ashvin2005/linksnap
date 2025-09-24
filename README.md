@@ -42,36 +42,6 @@ A beautiful, feature-rich URL shortener frontend built with vanilla HTML, CSS, a
 - **QR Code.js** for QR code generation
 - **Glassmorphism** styling with backdrop filters
 
-## 📦 Quick Start
-
-### Option 1: Direct File Access
-1. Double-click `index.html` to open in your browser
-2. Start shortening URLs immediately!
-
-### Option 2: Local Server (Recommended)
-```bash
-# Navigate to project directory
-cd "/Users/ashvin/Downloads/project 3"
-
-# Option A: Using Python
-python -m http.server 8000
-# Then open http://localhost:8000
-
-# Option B: Using Node.js
-npx serve .
-# Then open the displayed URL
-
-# Option C: Using PHP
-php -S localhost:8000
-# Then open http://localhost:8000
-```
-
-### Option 3: Clean Up First
-```bash
-chmod +x cleanup.sh
-./cleanup.sh
-
-```
 
 ## 🎮 How to Use
 
@@ -94,7 +64,7 @@ chmod +x cleanup.sh
 ## 🏗️ Project Structure
 
 ```
-project 3/
+linksnap/
 ├── index.html              # Main application file
 ├── src/
 │   ├── index.css          # Enhanced styles with glassmorphism
