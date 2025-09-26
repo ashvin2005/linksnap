@@ -1,0 +1,20 @@
+{
+  "name": "linksnap",
+  "version": "1.0.0",
+  "description": "A modern, full-stack URL shortener application with separate frontend and backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashvin2005/linksnap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashvin2005/linksnap/issues"
+  },
+  "homepage": "https://github.com/ashvin2005/linksnap#readme"
+}
