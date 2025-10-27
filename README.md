@@ -60,5 +60,3 @@ npm start
 - Dark/light theme support
 
 ---
-
-Built with ❤️ using React and Node.js
